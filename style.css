@@ -10,13 +10,13 @@ h1{color: rgba(240, 157, 149 / 1.0) ;
 	font-size:32px ;
 	letter-spacing: 1px; 
 	padding: 1px 14px}
-h2{color: #E090AD;}
+h2{color: #AA217D;}
 a{
 	font-size: 57px;
 	text-decoration: none;
-	color:#D88BA7;
+	color:#65004E;
 }
-a:hover{color:#075F53; 
+a:hover{color:#B65382; 
 	transition: 0.3}
 
 .container{
@@ -24,7 +24,7 @@ a:hover{color:#075F53;
 	margin: 40px;
 }
 .cadre {
-	background: #FFD4DD;
+	background: #E6CAB5;
 	padding: 60px;
 	margin: 50px;
 	border: 1px ;
@@ -37,8 +37,8 @@ a:hover{color:#075F53;
   100% { opacity: 1; }
 }
 .img-circle{
-	border-radius: 50%;
-	box-shadow: 5px 5px 5px #DAC4D0;
+	border-radius: 60%;
+	box-shadow: 7px 7px 10px #65004E;
 
 }
 .img-resize {
