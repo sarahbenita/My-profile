@@ -1,12 +1,12 @@
 body{
-	background: #FFFEF7;
+	background: #DCB1A6;
 	color: rgb(50, 50, 50 / 1.0);
-	font-family: arial;
+	font-family: "Quicksand", sans-serif;
 	font-size: 17px;
 	text-align: center;
 }
 h1{color: rgba(240, 157, 149 / 1.0) ; 
-	font-family:courier ;
+	font-family: "Playfair Display", serif;
 	font-size:32px ;
 	letter-spacing: 1px; 
 	padding: 1px 14px}
@@ -24,11 +24,11 @@ a:hover{color:#B65382;
 	margin: 40px;
 }
 .cadre {
-	background: #E6CAB5;
+	background: #E2DECF;
 	padding: 60px;
 	margin: 50px;
 	border: 1px ;
-	border-radius: 3px;
+	border-radius: 10px;
 	box-shadow: 2px 2px 20px rgba(10,10,10,0.3);
 	animation: fadeIn 3s;
 }
@@ -37,8 +37,7 @@ a:hover{color:#B65382;
   100% { opacity: 1; }
 }
 .img-circle{
-	border-radius: 60%;
-	box-shadow: 7px 7px 10px #65004E;
+	border-radius: 50%;
 
 }
 .img-resize {
